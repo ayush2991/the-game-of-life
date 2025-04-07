@@ -3,8 +3,6 @@ from unittest.mock import patch
 import random
 from enum import Enum
 
-# Assuming the code you provided is in a file named 'main.py'
-# If it's in a different file, adjust the import accordingly
 from main import Action, Strategy, AlwaysCooperateStrategy, RandomStrategy
 
 
